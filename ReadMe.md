@@ -1,5 +1,6 @@
 # Taxi Smart Contract
-This contract is Shared Taxi Business on Blockchain
+This contract is useful for Shared Taxi Business on Blockchain technology with Etherum.
+This code is running on Remix(https://remix.ethereum.org/).
 
 # OWNER
 Furkan Karadeli
