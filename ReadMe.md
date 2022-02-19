@@ -1,5 +1,5 @@
 # Taxi Smart Contract
-This contract is useful for Shared Taxi Business on Blockchain technology with Etherum.
+This contract is useful for Shared Taxi Business on Blockchain technology with Ethereum.
 This code is running on Remix(https://remix.ethereum.org/).
 
 # OWNER
